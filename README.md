@@ -9,10 +9,12 @@ QR & Barcode Master is a scan and create app that works without the need for the
 It offers various features such as:-
 
 **For Scanning:-**
+
 -  Scan QR / Barcodes using camera.
 -  Scan QR / Barcodes using images from the device.
 
 **For Creating:-**
+
 -  Create Aztec.
 -  Create CODABAR.
 -  Create CODE 128.
@@ -51,6 +53,7 @@ It offers various features such as:-
 |![Create More](https://user-images.githubusercontent.com/85361211/132853353-37841a9d-1e9e-4b3c-aa7d-7d00de9138d3.png)|
 
 **Features that I could implement or improve in near future:-**
+
 - [ ] For Scanning
     - [ ] Scanning PNG images
 
