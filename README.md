@@ -2,7 +2,7 @@
 
 | App Icon | Download Link | Feature Image |
 | ------------- | ------------- | ------------- |
-| ![ic_launcher](https://user-images.githubusercontent.com/85361211/132852693-c4d159b6-c92e-4274-8acc-b1a883055818.png) | <a href='https://play.google.com/store/apps/details?id=com.pureinfoapps.android.apps.filestools'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='300px'/></a> | ![Feature Image](https://user-images.githubusercontent.com/85361211/132852766-ee3ec264-9333-44fe-9c4a-cc7418088e6f.png) |
+| ![ic_launcher](https://user-images.githubusercontent.com/85361211/132852693-c4d159b6-c92e-4274-8acc-b1a883055818.png) | <a href='https://play.google.com/store/apps/details?id=com.pureinfoapps.android.apps.qr_and_barcode_master'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width='300px'/></a> | ![Feature Image](https://user-images.githubusercontent.com/85361211/132852766-ee3ec264-9333-44fe-9c4a-cc7418088e6f.png) |
 
 QR & Barcode Master is a scan and create app that works without the need for the internet.
 
